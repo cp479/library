@@ -1,4 +1,11 @@
 # library
+<h1>V2.0</h1>
+<ul>
+<li> Revamp layout
+</li>
+To add/change: add a delete button to remove the book record, change color coding of read/unread status. 
+</ul>
+
 <h1>V1.4</h1>
 <ul>
 <li> Polish html, css, and js
