@@ -3,8 +3,8 @@
 <ul>
 <li> Revamp layout
 </li>
-To add/change: add a delete button to remove the book record, change color coding of read/unread status. 
 </ul>
+To add/change: add a delete button to remove the book record, change color coding of read/unread status. 
 
 <h1>V1.4</h1>
 <ul>
