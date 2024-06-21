@@ -1,9 +1,11 @@
-// Book constructor
-function Book(title, author, pages, isRead) {
-    this.title = title;
-    this.author = author;
-    this.pages = pages;
-    this.isRead = isRead;
+// Book class
+class Book {
+    constructor(title, author, pages, isRead) {
+        this.title = title;
+        this.author = author;
+        this.pages = pages;
+        this.isRead = isRead;
+    }
 }
 
 // Array to store book objects
@@ -72,5 +74,3 @@ document.getElementById('addBookButton').addEventListener('click', () => {
     document.getElementById('pages').value = '';
     document.getElementById('read').checked = false;
 });
-
-
